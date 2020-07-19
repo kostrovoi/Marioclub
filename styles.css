@@ -37,6 +37,7 @@ header h1 {
 }
 .banner img {
   max-width: 100%;
+  vertical-align: bottom;
 }
 .banner .welcome {
   background-color: #feb614;
