@@ -272,5 +272,8 @@ p::selection {
         border-radius: 28px;
         border: 2px solid white;
         text-align: center;
-      }   
+      }
+  section.join {
+    padding: 60px 10px;
+  }
 }
